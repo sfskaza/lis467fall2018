@@ -1,0 +1,54 @@
+body {
+  background-color: black
+      }
+div{
+  width: 91%;
+  padding: 0%;
+  border: 0%;
+  margin-top: 2%;
+  margin-bottom: 1%;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+h1 {
+  font-size: 6vw;
+  Color: white;
+  font-weight: bold;
+  text-align: center;
+      }
+h2 {
+  font-size: 4.5vw;
+  color: red;
+      }
+h3 {
+  font-size: 3vw;
+  color: pink;
+  font-style: oblique;
+      }
+p {
+  text-indent: 50px;
+  font-size: 2vw;
+  color: white
+      }
+li{
+  color: white;
+  font-siz: 2vw
+}
+a:link {
+  color: lightblue;
+      }
+a:hover {
+  color: limegreen;
+      }
+a:visited {
+  color: red;
+      }
+#image {
+  width: 25%;
+  height: auto;
+      }
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
